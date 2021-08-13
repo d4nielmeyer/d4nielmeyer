@@ -2,7 +2,7 @@
 
 
 <p>Welcome to my page! </br> 
-I'm Daniel, Machine Learning & NLP Enthusiast from <b>Frankfurt, Germany</b> <img src='png/DE@2x.png?raw=true' width='21' height='15'>. 
+I'm Daniel, Machine Learning & NLP Enthusiast from <b>Frankfurt, Germany</b> <img src='DE@2x.png?raw=true' width='21' height='15'>. 
 
 I am a focused, enthusiastic and diligent young professional, who loves to explore innovation :sparkles: and smarter decision making :point_right: with the help of data science :bar_chart:. In particular, I am passionate about machine learning in combination with natural language processing, where I help to understand, analyze, manipulate and potentially generate human language :speech_balloon:.
 
