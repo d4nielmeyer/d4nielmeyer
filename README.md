@@ -2,13 +2,13 @@
 
 
 <p>Welcome to my page! </br> 
-I'm Daniel, Machine Learning & NLP Enthusiast from <b>Frankfurt, Germany</b>. 
+I'm Daniel, Machine Learning & NLP Enthusiast from <b>Frankfurt, Germany</b> <img src='png/DE@2x.png?raw=true' width='21' height='15'>. 
 
 I am a focused, enthusiastic and diligent young professional, who loves to explore innovation :sparkles: and smarter decision making :point_right: with the help of data science :bar_chart:. In particular, I am passionate about machine learning in combination with natural language processing, where I help to understand, analyze, manipulate and potentially generate human language :speech_balloon:.
 
 I do this by combining my programming proficiency in python :snake: with my knowledge of state-of-the-art ML frameworks such as Scikit-learn, Keras/Tensorflow and common NLP-tools like NLTK, Spacy or Huggingface Transformers.
 
-My background in business :mortar_board: finally allows me to turn this fascination not only into performant code :computer:, but also into solutions for data-driven actions :dart:. Years of management consulting : necktie: experience across different industries provide an ideal foundation to connect the dots between data, technology and business application :rocket:.</p>
+My background in business :mortar_board: finally allows me to turn this fascination not only into performant code :computer:, but also into solutions for data-driven actions :dart:. Years of management consulting :necktie: experience across different industries provide an ideal foundation to connect the dots between data, technology and business application :rocket:.</p>
 
 
 <h3>Where to find me</h3>
