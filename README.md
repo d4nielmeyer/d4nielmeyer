@@ -2,9 +2,9 @@
 
 
 <p>Welcome to my page! </br> 
-I'm Daniel, from <b>Germany</b> <img src='DE@2x.png?raw=true' width='21' height='15'>. 
+I'm Daniel, <b>Senior Data Scientist</b> from <b>Germany</b> <img src='DE@2x.png?raw=true' width='21' height='15'>. 
 
-Blending a passion for machine learning and natural language processing, I love to explore innovation and smarter decision making with the help of data science. My demonstrated expertise in generative ai and large language models, through several pioneering projects, has positioned me at the cutting edge of industry advancements.
+Blending a passion for <b>machine learning</b> and <b>natural language processing</b>, I love to explore innovation and smarter decision making with the help of data science. My demonstrated expertise in <b>generative ai</b> and <b>multimodal / large language models</b>, through several pioneering projects, has positioned me at the cutting edge of industry advancements.
 
 My background in business finally allows me to turn this fascination not only into performant code, but also into solutions for data-driven actions. Years of management consulting experience across different industries provide an ideal foundation to connect the dots between data, technology and business application.
 
