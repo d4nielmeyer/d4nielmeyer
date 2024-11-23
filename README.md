@@ -2,7 +2,7 @@
 
 
 <p>Welcome to my page! </br> 
-I'm Daniel, <b>Machine Learning</b> & <b>NLP</b> Enthusiast from <b>Germany</b> <img src='DE@2x.png?raw=true' width='21' height='15'>. 
+I'm Daniel, from <b>Germany</b> <img src='DE@2x.png?raw=true' width='21' height='15'>. 
 
 Blending a passion for machine learning and natural language processing, I love to explore innovation and smarter decision making with the help of data science. My demonstrated expertise in generative ai and large language models, through several pioneering projects, has positioned me at the cutting edge of industry advancements.
 
